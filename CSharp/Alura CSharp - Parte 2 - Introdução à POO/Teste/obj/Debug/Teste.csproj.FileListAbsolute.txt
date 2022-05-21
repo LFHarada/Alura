@@ -1,0 +1,6 @@
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\CSharp\Alura CSharp - Parte 2 - Introdução à POO\Teste\bin\Debug\Teste.exe.config
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\CSharp\Alura CSharp - Parte 2 - Introdução à POO\Teste\bin\Debug\Teste.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\CSharp\Alura CSharp - Parte 2 - Introdução à POO\Teste\bin\Debug\Teste.pdb
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\CSharp\Alura CSharp - Parte 2 - Introdução à POO\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\CSharp\Alura CSharp - Parte 2 - Introdução à POO\Teste\obj\Debug\Teste.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\CSharp\Alura CSharp - Parte 2 - Introdução à POO\Teste\obj\Debug\Teste.pdb

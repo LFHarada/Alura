@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\CSharp\Alura CSharp - Parte 2 - Introdução à POO\05_ByteBank\bin\Debug\05_ByteBank.exe.config
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\CSharp\Alura CSharp - Parte 2 - Introdução à POO\05_ByteBank\bin\Debug\05_ByteBank.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\CSharp\Alura CSharp - Parte 2 - Introdução à POO\05_ByteBank\bin\Debug\05_ByteBank.pdb
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\CSharp\Alura CSharp - Parte 2 - Introdução à POO\05_ByteBank\obj\Debug\05_ByteBank.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\CSharp\Alura CSharp - Parte 2 - Introdução à POO\05_ByteBank\obj\Debug\05_ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\CSharp\Alura CSharp - Parte 2 - Introdução à POO\05_ByteBank\obj\Debug\05_ByteBank.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\CSharp\Alura CSharp - Parte 2 - Introdução à POO\05_ByteBank\obj\Debug\05_ByteBank.pdb

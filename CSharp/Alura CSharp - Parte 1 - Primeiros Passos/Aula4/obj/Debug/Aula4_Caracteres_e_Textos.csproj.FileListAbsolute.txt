@@ -1,0 +1,6 @@
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\Aula4\bin\Debug\Aula4.exe.config
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\Aula4\bin\Debug\Aula4.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\Aula4\bin\Debug\Aula4.pdb
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\Aula4\obj\Debug\Aula4_Caracteres_e_Textos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\Aula4\obj\Debug\Aula4.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\Aula4\obj\Debug\Aula4.pdb

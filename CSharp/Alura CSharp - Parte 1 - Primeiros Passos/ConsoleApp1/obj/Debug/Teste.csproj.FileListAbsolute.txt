@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\ConsoleApp1\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\ConsoleApp1\obj\Debug\Teste.csproj.AssemblyReference.cache

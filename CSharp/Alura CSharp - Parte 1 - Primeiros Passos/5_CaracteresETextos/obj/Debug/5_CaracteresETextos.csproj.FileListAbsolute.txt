@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\5_CaracteresETextos\bin\Debug\5_CaracteresETextos.exe.config
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\5_CaracteresETextos\bin\Debug\5_CaracteresETextos.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\5_CaracteresETextos\bin\Debug\5_CaracteresETextos.pdb
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\5_CaracteresETextos\obj\Debug\5_CaracteresETextos.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\5_CaracteresETextos\obj\Debug\5_CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\5_CaracteresETextos\obj\Debug\5_CaracteresETextos.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\5_CaracteresETextos\obj\Debug\5_CaracteresETextos.pdb

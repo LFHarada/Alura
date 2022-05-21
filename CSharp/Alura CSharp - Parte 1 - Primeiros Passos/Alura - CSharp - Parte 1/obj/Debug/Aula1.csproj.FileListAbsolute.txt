@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\Alura - CSharp - Parte 1\bin\Debug\Alura - CSharp - Parte 1.exe.config
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\Alura - CSharp - Parte 1\bin\Debug\Alura - CSharp - Parte 1.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\Alura - CSharp - Parte 1\bin\Debug\Alura - CSharp - Parte 1.pdb
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\Alura - CSharp - Parte 1\obj\Debug\Aula1.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\Alura - CSharp - Parte 1\obj\Debug\Aula1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\Alura - CSharp - Parte 1\obj\Debug\Alura - CSharp - Parte 1.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\Alura - CSharp - Parte 1\obj\Debug\Alura - CSharp - Parte 1.pdb

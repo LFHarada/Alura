@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\9-Escopo\bin\Debug\9-Escopo.exe.config
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\9-Escopo\bin\Debug\9-Escopo.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\9-Escopo\bin\Debug\9-Escopo.pdb
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\9-Escopo\obj\Debug\9_Escopo.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\9-Escopo\obj\Debug\9_Escopo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\9-Escopo\obj\Debug\9-Escopo.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\9-Escopo\obj\Debug\9-Escopo.pdb

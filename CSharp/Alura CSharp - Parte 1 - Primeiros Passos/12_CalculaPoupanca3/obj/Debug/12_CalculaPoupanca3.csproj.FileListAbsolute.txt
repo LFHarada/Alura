@@ -1,0 +1,6 @@
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\12_CalculaPoupanca3\bin\Debug\12_CalculaPoupanca3.exe.config
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\12_CalculaPoupanca3\bin\Debug\12_CalculaPoupanca3.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\12_CalculaPoupanca3\bin\Debug\12_CalculaPoupanca3.pdb
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\12_CalculaPoupanca3\obj\Debug\12_CalculaPoupanca3.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\12_CalculaPoupanca3\obj\Debug\12_CalculaPoupanca3.exe
+C:\Users\lucas\Documents\PROGRAMAÇÃO\Alura\C# Parte 1 - Primeiros Passos\Alura CSharp\12_CalculaPoupanca3\obj\Debug\12_CalculaPoupanca3.pdb
